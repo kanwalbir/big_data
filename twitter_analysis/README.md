@@ -1,6 +1,6 @@
-#-----------------------------------------------------------------------------#
-#                            Twitter Analysis                                 #
-#-----------------------------------------------------------------------------#
+#-------------------------------------------------------#
+#                            Twitter Analysis           #
+#-------------------------------------------------------#
 
 PROBLEM: Perform small-scale natural language processing (NLP) by accessing the Twitter API and performing sentiment analysis on the tweets.
 
@@ -16,9 +16,4 @@ IMPLEMENTATION: Step 1: python twitterstream.py > twitter_sample.txt
 						python frequency.py twitter_sample.txt
 						python happiest_state.py AFINN-111.txt twitter_sample.txt
 						python top_ten.py twitter_sample.txt
-#-----------------------------------------------------------------------------#
-
-
-
-
-
+#-------------------------------------------------------#
