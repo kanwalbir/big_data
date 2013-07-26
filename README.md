@@ -2,13 +2,13 @@
 #               Big Data Projects						#
 #-------------------------------------------------------#
 
-PROBLEM: Perform 
+PROBLEM:
+Twitter Analysis using Natural Language Processing
+Titanic Disaster using Machine Learning
+Pig Cluster using Pig, Hadoop and AWS
+Map Redue Algorithms
 
-After collecting a 
+SOLUTION: Please look at README file within each folder.
 
-SOLUTION: Please read the comments on the top of each python file for more details on what that particular program does.
-
-IMPLEMENTATION: Step 1: python stream.py > sample.txt
-				Step 2:
 
 #-------------------------------------------------------#
