@@ -2,13 +2,13 @@
 #               Big Data Projects						#
 #-------------------------------------------------------#
 
-PROBLEM:
-Twitter Analysis using Natural Language Processing
-Titanic Disaster using Machine Learning
-Pig Cluster using Pig, Hadoop and AWS
-Map Redue Algorithms
+PROBLEM: Listing of a few big data projects that I have worked on recently:
+- Twitter Data Analysis using Natural Language Processing
+- Titanic Disaster Survival using Machine Learning
+- Map Redue Algorithms for various types of problems
+- Billion Triple dataset analysis using Pig/Hadoop on AWS cluster 
 
-SOLUTION: Please look at README file within each folder.
 
+SOLUTION: Please look at README and python files within each folder for more details
 
 #-------------------------------------------------------#

@@ -1,5 +1,5 @@
 """
-Compute matrix multiplication: A x B where A and B are in a sparse matrix 
+Perform matrix multiplication: A x B where A and B are in a sparse matrix 
 format, where each record is of the form i, j, value.
 
 Mapper Input: Matrix row records formatted as lists [matrix, i, j, value]
