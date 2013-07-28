@@ -5,7 +5,7 @@
 PROBLEM: Listing of a few big data projects that I have worked on recently:
 - Twitter Data Analysis using Natural Language Processing
 - Titanic Disaster Survival using Machine Learning
-- Map Redue Algorithms for various types of problems
+- MapRedue Algorithms for various types of problems
 - Billion Triple dataset analysis using Pig/Hadoop on AWS cluster 
 
 
