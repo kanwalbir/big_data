@@ -1,9 +1,8 @@
 /*
-
 Count the number of tuples associated with each object in 'btc-2010-chunk-000'
 
 http://km.aifb.kit.edu/projects/btc-2010/btc-2010-chunk-000.gz
-
+OUTPUT FILE: output_1.txt
 */
 
 ----------------------------------------------------------------
@@ -26,4 +25,3 @@ count_by_object = foreach objects generate flatten($0), COUNT($1) as count PARAL
 STORE count_by_object into 's3n://fake_directory/';
 
 ----------------------------------------------------------------
-
